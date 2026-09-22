@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：部署实践：Nginx高可用配置方案实践
+简介：数据库读写分离性能优化，讲解读写分离原理，主库写入从库查询，分担数据库查询压力，提升查询性能。
+ | 原文链接：http://wap.yhcgis.asia/blog/0415845.sHtMl
+
+原标题：架构笔记：分库分表中间件选型业务约束
+简介：golang tidb 数据库 go 项目适配，go 程序适配 tidb，兼容 mysql 协议，分布式数据库业务开发。
+ | 原文链接：http://wap.yhcgis.asia/blog/1151414.sHtMl
+
+原标题：golang k8s job 一次性任务执行
+简介：golang staticcheck 静态代码分析，staticcheck 深度静态检查，发现代码错误、性能问题、风格问题。
+ | 原文链接：http://wap.yhcgis.asia/blog/1424025.sHtMl
+
+原标题：架构笔记：分库分表中间件选型业务约束
+简介：golang go 领域驱动 DDD 项目分层，go 项目 DDD 分层架构，领域层应用层基础设施层划分业务代码。
+ | 原文链接：http://wap.yhcgis.asia/blog/1827060.sHtMl
+
+原标题：golang github actions 完整工作流示例
+简介：golang go http 安全头配置实践，设置 http 安全响应头，防范 XSS、点击劫持，提升 web 服务安全性。
+ | 原文链接：http://wap.yhcgis.asia/blog/5261415.sHtMl
+
+原标题：golang consul 服务发现简单示例
+简介：golang select 随机分支执行特性，多个 channel 就绪 select 随机选择，理解 select 行为特性。
+ | 原文链接：http://wap.yhcgis.asia/blog/4878788.sHtMl
+
+原标题：golang 系统设计 ide 配置 go 开发效率提升技巧
+简介：安全组端口开放网络访问，调整服务器安全组规则，开放业务需要端口，恢复外部网络访问服务。
+ | 原文链接：http://wap.yhcgis.asia/blog/2789801.sHtMl
+
+原标题：Practice：实现熔断降级组件简单原型代码
+简介：golang channel 通道并发处理，讲解 Channel 用法，协程之间通过通道传递数据，做并发同步控制。
+ | 原文链接：http://wap.yhcgis.asia/blog/8592703.sHtMl
+
+原标题：nodejs 跨域中间件配置细节
+简介：golang go 爬虫代理池轮换使用，http 代理池轮换，请求自动切换代理 IP，突破访问限制。
+ | 原文链接：http://wap.yhcgis.asia/blog/4262405.sHtMl
+
+原标题：安全复盘：环境变量密钥泄露风险与防护
+简介：nestjs 框架模块化项目搭建，从零搭建 NestJS 项目，模块化拆分业务，搭建规范后端项目骨架。
+ | 原文链接：http://wap.yhcgis.asia/blog/0716070.sHtMl
+
+原标题：实战项目：WebSocket消息广播房间分组实践
+简介：开发代理服务网络限制解决，搭建本地代理服务，解决开发环境网络访问受限，实现外部接口正常调用。
+ | 原文链接：http://wap.yhcgis.asia/blog/1828179.sHtMl
+
+原标题：踩坑：大报文传输，RPC消息超过大小限制
+简介：golang hertz http 框架快速上手，hertz 高性能 http 框架，路由中间件参数校验快速开发接口服务。
+ | 原文链接：http://wap.yhcgis.asia/blog/8214926.sHtMl
+
+原标题：OpenSource：开源项目贡献者协作流程规范
+简介：golang 换行符统一处理，文本文件读写统一换行符，规避不同系统换行符带来解析异常。
+ | 原文链接：http://wap.yhcgis.asia/blog/3170560.sHtMl
+
+原标题：golang 系统设计线上 ddl 变更安全执行思路
+简介：CLI 工具进度条交互效果开发，在命令行工具增加进度条展示，直观反馈任务执行进度，优化命令行体验。
+ | 原文链接：http://wap.yhcgis.asia/blog/6370585.sHtMl
+
+原标题：Troubleshoot：磁盘打满导致服务全部不可用
+简介：golang gorm select 指定查询字段，指定查询字段，避免查询全部字段，减少数据传输，提升查询性能。
+ | 原文链接：http://wap.yhcgis.asia/blog/0714958.sHtMl
+
+原标题：新手向：项目目录结构规范与含义解析
+简介：golang 数据库连接泄露排查，定位 Go 数据库连接泄露，连接没有归还池，导致连接耗尽报错。
+ | 原文链接：http://wap.yhcgis.asia/blog/7485748.sHtMl
+
+原标题：SSH 密钥配置 GitHub 免密登录
+简介：golang 容器信号转发处理问题修复，docker/k8s 正确转发 SIGTERM 信号，保证 go 程序收到信号优雅退出。
+ | 原文链接：http://wap.yhcgis.asia/blog/0720393.sHtMl
+
+原标题：golang 系统设计接口幂等架构设计
+简介：golang atomic.Value 存储任意类型数据，atomic.Value 安全存储读取任意类型，配置热更新常用。
+ | 原文链接：http://wap.yhcgis.asia/blog/6303583.sHtMl
+
+原标题：nodejs 日志轮转生产环境配置
+简介：golang 跨域处理中间件编写，Gin 跨域中间件开发，处理预检 OPTIONS 请求，解决浏览器跨域报错。
+ | 原文链接：http://wap.yhcgis.asia/blog/6070584.sHtMl
+
+原标题：golang 系统设计数据库表设计通用规范模板
+简介：golang 表格驱动测试完整示例，表格驱动多组输入输出，批量执行测试用例，减少重复代码。
+ | 原文链接：http://wap.yhcgis.asia/blog/9695858.sHtMl
+
+原标题：开发记录：跨域中间件完整配置与边界处理
+简介：vite 插件开发自定义构建逻辑，开发自定义 vite 插件，介入构建生命周期，实现项目个性化构建逻辑。
+ | 原文链接：http://wap.yhcgis.asia/blog/6391709.sHtMl
+
+原标题：DevOps：私有镜像仓库搭建与权限管控
+简介：golang 优雅处理数据库事务，Go 数据库事务封装，正确处理事务提交回滚，保证业务数据一致性。
+ | 原文链接：http://wap.yhcgis.asia/blog/8496835.sHtMl
+
+原标题：分布式事务最终一致性实现
+简介：golang grafana 面板 go 业务指标可视化，prometheus 指标对接 grafana，配置监控面板可视化业务状态。
+ | 原文链接：http://wap.yhcgis.asia/blog/4717958.sHtMl
+
+原标题：golang 系统设计延迟队列业务实现
+简介：内网测试服务搭建团队调试，配置本地服务内网可访问，团队成员能够访问调试，方便前后端联调与内部演示。
+ | 原文链接：http://wap.yhcgis.asia/blog/7483536.sHtMl
+
+原标题：golang 系统设计单元测试编写原则最佳实践
+简介：golang rsa 签名验签 pem 证书加载，加载 pem 格式密钥证书，rsa 签名与验签完整业务实现。
+ | 原文链接：http://wap.yhcgis.asia/blog/8404847.sHtMl
+
+原标题：Issue：系统fd快速上涨进程慢慢卡死
+简介：golang 模糊测试 go fuzz 基础编写，Fuzz 测试函数，自动生成随机输入，发现代码崩溃 panic。
+ | 原文链接：http://wap.yhcgis.asia/blog/6070573.sHtMl
+
+原标题：安全实践：备份文件访问权限安全管控
+简介：golang strings 常用函数业务实战，字符串分割替换包含判断前缀后缀，掌握 strings 包高频函数。
+ | 原文链接：http://wap.yhcgis.asia/blog/5139140.sHtMl
+
+原标题：内存溢出问题现象识别排查
+简介：正则表达式文本处理实战案例，结合业务场景演示正则匹配、提取、替换，处理手机号、邮箱等各类文本校验需求。
+ | 原文链接：http://wap.yhcgis.asia/blog/0717137.sHtMl
+
+原标题：nodejs http 服务性能调优实战
+简介：GC 垃圾回收优化降低 CPU 占用，调整 GC 参数，优化对象创建销毁，降低垃圾回收带来 CPU 开销。
+ | 原文链接：http://wap.yhcgis.asia/blog/8291796.sHtMl
+
+原标题：Architecture：服务注册发现架构原理与选型
+简介：golang 漏桶算法实现接口限流，漏桶算法控制请求流出速率，平滑突发流量，削平流量峰值。
+ | 原文链接：http://wap.yhcgis.asia/blog/3706048.sHtMl
+
+原标题：实战：gRPC服务编写客户端服务端完整demo
+简介：golang interface {} 类型断言类型转换，类型断言 ok 模式，避免断言失败触发 panic。
+ | 原文链接：http://wap.yhcgis.asia/blog/8595929.sHtMl
+
+原标题：golang 系统设计 http 接口基准测试实操示例
+简介：磁盘 inode 耗尽文件创建失败，排查磁盘 inode 占用，清理大量小文件，恢复文件创建能力。
+ | 原文链接：http://wap.yhcgis.asia/blog/6051692.sHtMl
+
+原标题：Security：反序列化漏洞风险识别与规避
+简介：git rebase 整理提交历史实操，使用 rebase 整理杂乱提交记录，将多条提交合并，保持 git 提交历史干净线性。
+ | 原文链接：http://wap.yhcgis.asia/blog/5267204.sHtMl
+
+原标题：golang 系统设计采样策略降低链路存储开销
+简介：golang 日志级别动态调整热更新，不用重启程序动态修改日志输出级别，线上调试排查问题十分方便。
+ | 原文链接：http://wap.yhcgis.asia/blog/0606036.sHtMl
+
+原标题：SourceMap 生成线上报错定位
+简介：golang 滑动窗口限流算法 go 实现，滑动窗口限流，解决固定窗口临界流量突增漏洞，限流更精准。
+ | 原文链接：http://wap.yhcgis.asia/blog/6371626.sHtMl
+
+原标题：golang etcd 分布式锁实现原理
+简介：前端权限路由动态生成实现，根据后端返回权限，动态生成前端路由菜单，实现页面权限控制。
+ | 原文链接：http://wap.yhcgis.asia/blog/7490696.sHtMl
+
+原标题：短信服务封装失败自动重试
+简介：YAML 配置文件语法快速上手，讲解 YAML 基础语法、缩进规则，编写项目配置文件，规避语法错误引发程序异常。
+ | 原文链接：http://wap.yhcgis.asia/blog/8503815.sHtMl
+
+原标题：golang 系统设计日志采样降低存储开销方案
+简介：浏览器本地存储安全使用技巧，讲解 localStorage、sessionStorage 使用边界，规避 XSS 泄露存储数据。
+ | 原文链接：http://wap.yhcgis.asia/blog/8597848.sHtMl
+
+原标题：golang 系统设计 protobuf oneof 类型业务场景
+简介：开发环境变量配置全平台教程，区分 Windows、macOS、Linux 系统，讲解环境变量配置、加载优先级与常见失效原因。
+ | 原文链接：http://wap.yhcgis.asia/blog/5168250.sHtMl
+
+原标题：golang 系统设计 tcp 三次握手四次挥手梳理
+简介：golang mongodb 索引优化慢查询处理，mongodb 创建索引，分析慢查询，优化聚合查询执行性能。
+ | 原文链接：http://wap.yhcgis.asia/blog/6451472.sHtMl
+
+
+二、踩坑排错｜Troubleshooting
+原标题：新手向：开源项目本地构建失败通用排查步骤
+简介：nestjs 全局返回格式统一处理，Nest 全局拦截器统一包装接口返回数据，对外输出标准化响应格式。
+ | 原文链接：http://wap.yhcgis.asia/blog/2047361.sHtMl
+
+原标题：Issue：系统fd快速上涨进程慢慢卡死
+简介：CPU 亲和性配置负载均衡调度，配置进程 CPU 亲和，均衡利用多核 CPU，优化程序调度性能。
+ | 原文链接：http://wap.yhcgis.asia/blog/2535760.sHtMl
+
+原标题：golang es 高亮搜索结果实现方案
+简介：golang 单元测试 table‑driven，表格驱动单元测试写法，批量输入多组测试用例，简化单元测试代码。
+ | 原文链接：http://wap.yhcgis.asia/blog/9504929.sHtMl
+
+原标题：golang 系统设计压测工具 wrk 使用实操
+简介：缓存基础原理与简单代码实现，讲解缓存设计思路，编写简易缓存逻辑，减少重复计算与重复请求，提升程序响应速度。
+ | 原文链接：http://wap.yhcgis.asia/blog/0747805.sHtMl
+
+原标题：正则表达式优化 CPU 占满问题
+简介：golang 漏桶算法实现接口限流，漏桶算法控制请求流出速率，平滑突发流量，削平流量峰值。
+ | 原文链接：http://wap.yhcgis.asia/blog/5191708.sHtMl
+
+原标题：nodejs 中间件模式原理剖析
+简介：golang tcp_NODELAY 关闭延迟发送，设置 tcp_NODELAY，关闭 Nagle 算法，降低小包请求延迟。
+ | 原文链接：http://wap.yhcgis.asia/blog/2940248.sHtMl
+
+原标题：坑点：gitreset误删本地代码恢复方案
+简介：golang net/http/httptest 服务端模拟，httptest.NewRecorder 记录 handler 响应，校验返回状态码 body。
+ | 原文链接：http://wap.yhcgis.asia/blog/3047372.sHtMl
+
+原标题：golang 系统设计时间字段选型 datetime timestamp
+简介：golang contract 契约测试微服务，微服务契约测试，保证接口变更不破坏调用方，提前发现兼容性问题。
+ | 原文链接：http://wap.yhcgis.asia/blog/3048241.sHtMl
+
+原标题：复盘总结：分布式系统常见坑点汇总清单
+简介：golang 配置文件热加载监听变更，监听配置文件改动，自动重新加载配置，业务即时生效无需重启。
+ | 原文链接：http://wap.yhcgis.asia/blog/8592707.sHtMl
+
+原标题：安全笔记：文件下载接口路径校验安全
+简介：golang httptest 模拟外部 http 服务，httptest.NewServer 模拟第三方 http 服务，单元测试 mock 外部接口。
+ | 原文链接：http://wap.yhcgis.asia/blog/4152364.sHtMl
+
+原标题：golang 系统设计网关 ssl 证书配置更新实操
+简介：service‑worker 离线缓存实践，使用 ServiceWorker 实现静态资源离线缓存，弱网环境页面依然可访问。
+ | 原文链接：http://wap.yhcgis.asia/blog/0424748.sHtMl
+
+原标题：golang 系统设计灰度发布实现思路
+简介：golang 接口返回统一封装工具，封装 Go 接口统一返回工具，标准化成功失败返回结构体。
+ | 原文链接：http://wap.yhcgis.asia/blog/1838919.sHtMl
+
+原标题：vue3 组合式 API 业务开发实战
+简介：golang trace 工具采集 go 程序执行轨迹，go trace 采集程序完整调度轨迹，分析协程调度阻塞问题。
+ | 原文链接：http://wap.yhcgis.asia/blog/2151304.sHtMl
+
+原标题：golang 跨域处理中间件编写
+简介：golang gin 静态资源访问配置，Gin 配置静态资源目录，直接对外提供静态文件访问服务。
+ | 原文链接：http://wap.yhcgis.asia/blog/1817960.sHtMl
+
+原标题：磁盘占满服务不可用清理方案
+简介：nodejs 数据库连接池配置调优，调优 Node 数据库连接池参数，平衡性能与资源占用，避免连接耗尽。
+ | 原文链接：http://wap.yhcgis.asia/blog/9384593.sHtMl
+
+原标题：golang gin 静态资源访问配置
+简介：Git commit 钩子提交规范校验，配置 Git 提交钩子，提交代码自动校验提交信息格式，规范提交记录。
+ | 原文链接：http://wap.yhcgis.asia/blog/3047254.sHtMl
+
+原标题：复盘总结：微服务改造踩坑经验总结记录
+简介：golang 布隆过滤器实现去重，Go 实现布隆过滤器，海量数据去重，节省内存开销，提升判断效率。
+ | 原文链接：http://wap.yhcgis.asia/blog/6370474.sHtMl
+
+原标题：Spring 事务传播机制配置生效
+简介：Git 分支切换合并删除完整操作，实操分支全生命周期操作，包含切换、合并、删除，熟悉日常开发分支处理流程。
+ | 原文链接：http://wap.yhcgis.asia/blog/5269481.sHtMl
+
+原标题：golang 系统设计 tcp 三次握手四次挥手梳理
+简介：数值 key 浮点匹配异常规避，避免浮点数作为 Redis 等存储的 key，防止精度问题引发 key 匹配失败。
+ | 原文链接：http://wap.yhcgis.asia/blog/7192705.sHtMl
+
+原标题：golang 系统设计接口幂等架构设计
+简介：golang 灰度发布流量权重路由实现，根据权重切分流量，部分流量访问新版本服务，实现灰度发布。
+ | 原文链接：http://wap.yhcgis.asia/blog/2151292.sHtMl
+
+原标题：实践：多配置文件合并加载组件实现
+简介：golang csv 百万级数据导入数据库，流式读取 csv 分批写入数据库，避免一次性加载全部数据。
+ | 原文链接：http://wap.yhcgis.asia/blog/4275707.sHtMl
+
+原标题：实践：数据库回滚点业务调试实践
+简介：golang 服务注册 etcd 简单示例，etcd 实现服务注册发现，微服务实例注册元数据，客户端发现节点。
+ | 原文链接：http://wap.yhcgis.asia/blog/3049469.sHtMl
+
+原标题：架构复盘：限流系统架构防止恶意流量冲击
+简介：golang grpc 拦截器开发鉴权日志，开发 grpc 服务端拦截器，统一做鉴权、日志打印、异常捕获处理。
+ | 原文链接：http://wap.yhcgis.asia/blog/7485624.sHtMl
+
+原标题：Hands‑on：模板渲染引擎最小原型实现
+简介：golang 分布式唯一 id 多种方案对比，雪花、redis、uuid 对比各方案优缺点，指导业务选型使用。
+ | 原文链接：http://wap.yhcgis.asia/blog/7480617.sHtMl
+
+原标题：实战项目：前端资源打包体积优化完整实操
+简介：golang go 排序 sort 包自定义排序，sort 包实现自定义排序逻辑，对切片按业务规则排序。
+ | 原文链接：http://wap.yhcgis.asia/blog/2946147.sHtMl
+
+原标题：golang 系统设计依赖漏洞扫描修复流程
+简介：golang go 接口定义原则小接口，go 小接口设计原则，接口尽量小，只定义必要方法，提升代码灵活性。
+ | 原文链接：http://wap.yhcgis.asia/blog/3817956.sHtMl
+
+原标题：Debug：异步任务堆积，服务响应越来越慢
+简介：极简 API 网关路由转发实现，开发极简网关服务，完成请求路由转发，理解网关基础实现原理。
+ | 原文链接：http://wap.yhcgis.asia/blog/0840170.sHtMl
+
+原标题：部署实践：服务器防火墙安全组配置实践
+简介：golang 数据库连接泄露排查，定位 Go 数据库连接泄露，连接没有归还池，导致连接耗尽报错。
+ | 原文链接：http://wap.yhcgis.asia/blog/8203808.sHtMl
+
+原标题：前端错误监控上报系统搭建
+简介：golang 高并发下锁优化减少竞争，减小锁粒度，读写锁替换互斥锁，无锁编程降低锁竞争开销。
+ | 原文链接：http://wap.yhcgis.asia/blog/1981693.sHtMl
+
+原标题：golang 空接口 interface 使用技巧
+简介：Docker 容器网络不通排查，排查容器网络模式、端口映射、防火墙，解决容器之间、容器外部网络不通。
+ | 原文链接：http://wap.yhcgis.asia/blog/6303637.sHtMl
+
+原标题：部署实践：HTTPS证书自动续期配置实践
+简介：git cherry‑pick 规范操作防 bug，规范 cherry‑pick 使用流程，处理冲突，避免错误引入不兼容代码。
+ | 原文链接：http://wap.yhcgis.asia/blog/1825257.sHtMl
+
+原标题：golang 批量任务协程控制防雪崩
+简介：nodejs 集成测试业务流程编写，编写 Node 集成测试，调用真实接口，验证完整业务链路执行结果。
+ | 原文链接：http://wap.yhcgis.asia/blog/1858589.sHtMl
+
+原标题：Practice：实现接口签名、验签完整示例代码
+简介：golang sync.Once 只执行一次，sync.Once 做单例初始化，保证代码只执行一次，并发安全。
+ | 原文链接：http://wap.yhcgis.asia/blog/6269246.sHtMl
+
+原标题：效率笔记：GitWorkflow团队协作规范模板
+简介：golang go yaml 解析自定义类型，yaml 自定义序列化，时间、特殊类型自定义解析逻辑。
+ | 原文链接：http://wap.yhcgis.asia/blog/4117060.sHtMl
+
+原标题：架构复盘：容器资源隔离架构CPU内存限制设计
+简介：golang go 排序 sort 包自定义排序，sort 包实现自定义排序逻辑，对切片按业务规则排序。
+ | 原文链接：http://wap.yhcgis.asia/blog/4270586.sHtMl
+
+原标题：简易网关请求路由过滤模拟
+简介：golang os.Exit 退出程序注意 defer 不执行，os.Exit 会直接退出，不会执行 defer，优雅退出不要直接 os.Exit。
+ | 原文链接：http://wap.yhcgis.asia/blog/1826363.sHtMl
+
+原标题：安全复盘：定时任务权限过大风险管控
+简介：golang go 泛型约束与类型集合，泛型 type set 约束，限制泛型支持类型，写出安全泛型代码。
+ | 原文链接：http://wap.yhcgis.asia/blog/5714038.sHtMl
+
+原标题：golang 系统设计分库分表扩容平滑迁移
+简介：golang 异步任务队列 worker 池开发，任务入数据库或 redis，worker 池消费执行，异步处理耗时业务。
+ | 原文链接：http://wap.yhcgis.asia/blog/4164616.sHtMl
+
+原标题：golang makefile 自动化构建脚本
+简介：golang 换行符统一处理，文本文件读写统一换行符，规避不同系统换行符带来解析异常。
+ | 原文链接：http://wap.yhcgis.asia/blog/8728360.sHtMl
+
+原标题：golang 系统设计 span 埋点业务代码最小侵入思路
+简介：golang http MaxHeaderBytes 限制请求头，设置 http 最大请求头大小，防止超大 header 攻击。
+ | 原文链接：http://wap.yhcgis.asia/blog/6339163.sHtMl
+
+三、实战开发｜Practice
+原标题：限流窗口绕过漏洞修复方案
+简介：浏览器本地存储安全使用技巧，讲解 localStorage、sessionStorage 使用边界，规避 XSS 泄露存储数据。
+ | 原文链接：http://wap.yhcgis.asia/blog/8527947.sHtMl
+
+原标题：golang k8s 命名空间资源隔离方案
+简介：数据库连接及时关闭连接泄漏，确保数据库连接使用完毕释放归还连接池，杜绝连接泄漏耗尽连接。
+ | 原文链接：http://wap.yhcgis.asia/blog/3151693.sHtMl
+
+原标题：golang 系统设计 vscode go 插件调试配置实操
+简介：golang redis hyperloglog 基数统计，hyperloglog 统计 UV 基数，海量数据去重统计，极低内存开销。
+ | 原文链接：http://wap.yhcgis.asia/blog/5269696.sHtMl
+
+原标题：golang 系统设计 mq 消息丢失完整防护
+简介：golang go1.18 + 泛型基础实操，go 泛型基础语法，泛型函数泛型类型，实现通用工具函数。
+ | 原文链接：http://wap.yhcgis.asia/blog/0592736.sHtMl
+
+原标题：实战：Nginx实现文件限速下载配置实践
+简介：golang redis hyperloglog 基数统计，hyperloglog 统计 UV 基数，海量数据去重统计，极低内存开销。
+ | 原文链接：http://wap.yhcgis.asia/blog/5270585.sHtMl
+
+原标题：性能复盘：系统上下文切换过高性能下降调优
+简介：CI 构建缓存加速编译速度，开启 CI 流水线依赖缓存，复用上一次构建依赖包，缩短流水线构建耗时。
+ | 原文链接：http://wap.yhcgis.asia/blog/0425737.sHtMl
+
+原标题：调优方案：JVM内存参数优化，降低GC频率
+简介：缓存穿透防护保护数据库，实现缓存穿透防护手段，拦截不存在的数据查询，避免请求直接打穿数据库。
+ | 原文链接：http://wap.yhcgis.asia/blog/0414515.sHtMl
+
+原标题：Practice：实现多级缓存本地缓存+Redis实践
+简介：新手快速上手 Git 版本控制实操指南，讲解 Git 基础概念与常用命令，结合实操案例，帮助零基础用户掌握版本控制核心能力。
+ | 原文链接：http://wap.yhcgis.asia/blog/3048959.sHtMl
+
+原标题：Troubleshoot：异步异常未捕获，进程悄无声息退出
+简介：项目目录结构规范化最佳实践，梳理源码、配置、静态资源目录划分，规范项目布局，提升代码可读性和可维护性。
+ | 原文链接：http://wap.yhcgis.asia/blog/5269473.sHtMl
+
+原标题：Architecture：文件处理服务架构大文件内存规避
+简介：golang sqlx 原生 SQL 代码简化，sqlx 简化原生 SQL 结果映射结构体，兼顾性能与开发效率。
+ | 原文链接：http://wap.yhcgis.asia/blog/5928181.sHtMl
+
+原标题：对象存储上传下载权限实操
+简介：定时任务周期调度 demo 开发，实现简单定时调度程序，按时间周期执行业务逻辑，理解定时任务运行机制。
+ | 原文链接：http://wap.yhcgis.asia/blog/6373479.sHtMl
+
+原标题：项目实践：数据库慢日志采集分析落地实践
+简介：golang influxdb 时序数据库读写操作，influxdb 存储时序指标，业务指标监控数据存取。
+ | 原文链接：http://wap.yhcgis.asia/blog/6384624.sHtMl
+
+原标题：Performance：避免循环查询N+1问题完整优化
+简介：golang go 自定义错误类型实现，自定义 error 结构体，携带错误码、堆栈信息，统一业务错误。
+ | 原文链接：http://wap.yhcgis.asia/blog/4858362.sHtMl
+
+原标题：golang minio 对象存储接口开发
+简介：前端错误监控上报系统搭建，搭建前端错误监控，捕获页面 JS 错误，上报后端，快速发现线上页面 bug。
+ | 原文链接：http://wap.yhcgis.asia/blog/4152306.sHtMl
+
+原标题：ICMP 放通网络丢包问题修复
+简介：golang fasthttp 客户端连接池调优，fasthttp 客户端连接池配置，复用连接提升请求性能。
+ | 原文链接：http://wap.yhcgis.asia/blog/5270507.sHtMl
+
+原标题：golang 系统设计蓝绿发布滚动发布对比
+简介：golang redis 客户端业务使用，Go Redis 客户端对接，实现缓存、计数器，适配各类 Redis 业务场景。
+ | 原文链接：http://wap.yhcgis.asia/blog/5269696.sHtMl
+
+原标题：Hands‑on：本地模拟分布式锁失效场景测试
+简介：浮点计算精度错误处理方案，讲解浮点数计算精度丢失问题，使用合适数据类型，规避金额计算出错。
+ | 原文链接：http://wap.yhcgis.asia/blog/1875708.sHtMl
+
+原标题：实战项目：本地搭建Prometheus监控完整demo
+简介：golang 单例模式实现几种方式，Go 单例模式多种实现对比，sync.Once 等方式，实现全局唯一实例。
+ | 原文链接：http://wap.yhcgis.asia/blog/7082402.sHtMl
+
+原标题：开发复盘：消息队列消息顺序性业务落地实践
+简介：golang proto 可选字段处理方案，protobuf 可选字段正确判断，区分未赋值与零值，业务逻辑不出现偏差。
+ | 原文链接：http://wap.yhcgis.asia/blog/2951362.sHtMl
+
+原标题：golang 系统设计技术方案评审关注点清单参考
+简介：golang 大文件 HTTP 流式上传接收，服务端流式接收上传文件，不全部加载内存，防止大文件 OOM 崩溃。
+ | 原文链接：http://wap.yhcgis.asia/blog/3970680.sHtMl
+
+原标题：golang 系统设计 git 钩子自动化校验实现
+简介：极简 API 网关路由转发实现，开发极简网关服务，完成请求路由转发，理解网关基础实现原理。
+ | 原文链接：http://wap.yhcgis.asia/blog/1826041.sHtMl
+
+原标题：golang 系统设计 pre‑commit 钩子本地代码校验
+简介：golang dns 自定义解析器实现，自定义 dns 解析，指定 dns 服务器，控制域名解析逻辑，适配内网环境。
+ | 原文链接：http://wap.yhcgis.asia/blog/0716950.sHtMl
+
+原标题：Architecture：CI/CD流水线架构完整设计思考
+简介：golang context 取消传播机制，父 ctx 取消，所有派生子 context 全部被取消，理解上下文传播。
+ | 原文链接：http://wap.yhcgis.asia/blog/1825925.sHtMl
+
+原标题：坑点：Git仓库过大，clone速度极慢解决方案
+简介：大事务拆分防止连接池耗尽，将执行时间很长的大事务拆分为小事务，减少事务占用连接时长。
+ | 原文链接：http://wap.yhcgis.asia/blog/6361395.sHtMl
+
+原标题：golang 系统设计数据库索引设计方法论
+简介：golang sync.Map 高并发 map 使用场景，sync.Map 适用场景，读写实操，对比普通 map 加锁性能差异。
+ | 原文链接：http://wap.yhcgis.asia/blog/5481696.sHtMl
+
+原标题：Hands‑on：编写自定义Git钩子实现代码提交校验
+简介：express 请求参数校验处理，接入参数校验库，校验入参，拦截非法参数，提前拦截错误请求。
+ | 原文链接：http://wap.yhcgis.asia/blog/1858360.sHtMl
+
+原标题：Troubleshoot：CPU调度频繁上下文切换性能下降
+简介：版本升级服务启动失败处理，版本更新之后服务无法启动，对比新旧版本配置、依赖差异，完成故障修复。
+ | 原文链接：http://wap.yhcgis.asia/blog/7484636.sHtMl
+
+原标题：Practice：模拟数据库故障验证降级逻辑实践
+简介：react 状态管理方案选型对比，对比 Redux、Zustand 等 React 状态管理库，分析适用业务场景辅助选型。
+ | 原文链接：http://wap.yhcgis.asia/blog/5269584.sHtMl
+
+原标题：golang 系统设计单元测试表驱动测试 table‑driven
+简介：golang context 取消传播机制，父 ctx 取消，所有派生子 context 全部被取消，理解上下文传播。
+ | 原文链接：http://wap.yhcgis.asia/blog/7393818.sHtMl
+
+原标题：golang 系统设计定时任务调度时间校准要点
+简介：golang 简单爬虫请求防封禁，简易 Go 爬虫实现，增加请求间隔、UA 伪装，规避被目标站点封禁 IP。
+ | 原文链接：http://wap.yhcgis.asia/blog/0724030.sHtMl
+
+原标题：HelloShell：入门常用shell脚本编写
+简介：日志切割配置防止日志丢失，配置日志切割轮转策略，日志按大小时间切割，防止日志文件丢失。
+ | 原文链接：http://wap.yhcgis.asia/blog/8506257.sHtMl
+
+原标题：react hooks 常见陷阱避坑指南
+简介：golang grpc protobuf 开发实操，Go gRPC 开发，编写 Protobuf 定义，服务端客户端完整示例。
+ | 原文链接：http://wap.yhcgis.asia/blog/4159169.sHtMl
+
+原标题：方案设计：分布式分页查询架构难点处理
+简介：CLI 工具进度条交互效果开发，在命令行工具增加进度条展示，直观反馈任务执行进度，优化命令行体验。
+ | 原文链接：http://wap.yhcgis.asia/blog/6363413.sHtMl
+
+原标题：golang 日志 zap 结构化日志实践
+简介：游标分页大数据查询性能提升，使用游标分页替代偏移分页，解决大数据 offset 分页性能越来越差问题。
+ | 原文链接：http://wap.yhcgis.asia/blog/6372403.sHtMl
+
+原标题：golang 系统设计本地消息表可靠消息最终一致性
+简介：gitignore 文件编写过滤规则，讲解 gitignore 语法，编写过滤配置，忽略缓存、编译产物、密钥文件，保持仓库整洁。
+ | 原文链接：http://wap.yhcgis.asia/blog/5263475.sHtMl
+
+原标题：golang 告警推送钉钉机器人实现
+简介：golang go 随机数安全与非安全，math/rand 伪随机与 crypto/rand 密码学安全随机，区分业务场景。
+ | 原文链接：http://wap.yhcgis.asia/blog/5494918.sHtMl
+
+原标题：golang 系统设计 tcp 三次握手四次挥手梳理
+简介：OAuth2 第三方登录服务搭建，搭建 OAuth2 服务，支持第三方账号登录，实现授权登录能力。
+ | 原文链接：http://wap.yhcgis.asia/blog/9373584.sHtMl
+
+原标题：golang 大文件读取内存优化
+简介：多实例部署 Session 共享方案，多服务实例部署场景，实现 Session 共享，保证用户登录状态跨实例生效。
+ | 原文链接：http://wap.yhcgis.asia/blog/7495014.sHtMl
+
+原标题：Performance：避免全表扫描索引失效场景汇总
+简介：golang golangci‑lint 静态代码检查配置，golangci‑lint 静态检查，代码规范检测，提前发现代码隐患。
+ | 原文链接：http://wap.yhcgis.asia/blog/0425624.sHtMl
+
+原标题：golang k8s 本地 minikube 调试应用
+简介：Redis 热点 key 拆分降低集群压力，拆分访问量极高的热点 Key，分散请求压力，避免 Redis 节点压力过高。
+ | 原文链接：http://wap.yhcgis.asia/blog/5374625.sHtMl
+
+四、架构设计｜Architecture
+原标题：开源实践：开源项目本地调试构建排坑经验
+简介：浏览器缓存强制刷新方案，设置 HTTP 缓存头，处理浏览器缓存旧静态资源，让用户加载更新后的页面。
+ | 原文链接：http://wap.yhcgis.asia/blog/1828191.sHtMl
+
+原标题：实战：Nginx实现文件限速下载配置实践
+简介：golang 网卡 ip 读取网络信息获取，程序读取本机网卡 IP，多网卡环境筛选业务使用 IP 地址。
+ | 原文链接：http://wap.yhcgis.asia/blog/9592706.sHtMl
+
+原标题：vite 项目配置与构建提速技巧
+简介：golang mime 类型检测文件，mime 识别文件 mime 类型，设置 http 响应 Content‑Type。
+ | 原文链接：http://wap.yhcgis.asia/blog/4081695.sHtMl
+
+原标题：CI 构建缓存加速编译速度
+简介：golang websocket 服务端开发，Go 实现 WebSocket 服务端，处理连接、消息收发，实现长连接服务。
+ | 原文链接：http://wap.yhcgis.asia/blog/0748960.sHtMl
+
+原标题：运维笔记：服务器Swap分区调优生产实践
+简介：golang 结构体零值可用性原则，go 结构体尽量做到零值可用，不用初始化直接使用提升易用性。
+ | 原文链接：http://wap.yhcgis.asia/blog/5272624.sHtMl
+
+原标题：新手向：开源项目fork与同步上游代码
+简介：golang go select 多路等待 channel，select 等待多个 channel，default 非阻塞，超时等待 channel。
+ | 原文链接：http://wap.yhcgis.asia/blog/7592625.sHtMl
+
+原标题：Architecture：大文件上传下载系统架构设计
+简介：golang os 文件权限 mode，os.FileMode 文件权限，读写执行权限位，跨平台权限注意事项。
+ | 原文链接：http://wap.yhcgis.asia/blog/5269475.sHtMl
+
+原标题：golang 系统设计定时任务调度时间校准要点
+简介：golang kitex 超时重试熔断配置，kitex 配置调用超时、重试、熔断策略，保障微服务调用稳定性。
+ | 原文链接：http://wap.yhcgis.asia/blog/2960581.sHtMl
+
+原标题：开发记录：短信发送服务封装，失败重试策略
+简介：golang excel 大文件读取流式解析，流式读取大 excel 文件，逐行解析数据，不加载全部内容进内存。
+ | 原文链接：http://wap.yhcgis.asia/blog/6002806.sHtMl
+
+原标题：golang 系统设计 README 开源文档模板
+简介：golang goroutine 泄露检测告警实现，监控 goroutine 数量，突增触发告警，提早发现协程泄露。
+ | 原文链接：http://wap.yhcgis.asia/blog/7162797.sHtMl
+
+原标题：golang mysql 分表自增 id 方案
+简介：分布式 ID 全局唯一生成方案，讲解分布式 ID 生成思路，实现全局唯一 ID，满足分布式系统主键生成需求。
+ | 原文链接：http://wap.yhcgis.asia/blog/3047846.sHtMl
+
+原标题：线上故障：消息队列重复消费业务处理异常
+简介：golang cgroup 读取容器资源限制，go 程序读取 cgroup，获取容器 cpu 内存限额，适配容器环境。
+ | 原文链接：http://wap.yhcgis.asia/blog/6369473.sHtMl
+
+原标题：golang 大文件 http 下载服务
+简介：golang go 程序权限最小化运行，容器内使用普通用户运行程序，拒绝 root 运行提升安全等级。
+ | 原文链接：http://wap.yhcgis.asia/blog/4162391.sHtMl
+
+原标题：实践：API错误统一捕获与告警通知实践
+简介：golang go time 时区数据库内置，go 内置时区数据库，不用系统时区文件，容器时区不依赖系统。
+ | 原文链接：http://wap.yhcgis.asia/blog/9608969.sHtMl
+
+原标题：eslint prettier 代码规范落地
+简介：git rebase 整理提交历史实操，使用 rebase 整理杂乱提交记录，将多条提交合并，保持 git 提交历史干净线性。
+ | 原文链接：http://wap.yhcgis.asia/blog/3051314.sHtMl
+
+原标题：站内邮件消息通知功能开发
+简介：golang multipart 表单文件上传解析，服务端解析 multipart 表单，获取上传文件与表单字段。
+ | 原文链接：http://wap.yhcgis.asia/blog/9603706.sHtMl
+
+原标题：批量异步处理系统业务落地
+简介：内存溢出问题现象识别排查，识别内存溢出现象，梳理排查方向，定位内存持续上涨引发服务崩溃问题。
+ | 原文链接：http://wap.yhcgis.asia/blog/8592692.sHtMl
+
+原标题：Cookie Session 会话状态管理
+简介：Docker Compose 一键搭建本地栈，使用 Compose 编排多个容器，一键拉起全套开发依赖服务。
+ | 原文链接：http://wap.yhcgis.asia/blog/6384657.sHtMl
+
+?
