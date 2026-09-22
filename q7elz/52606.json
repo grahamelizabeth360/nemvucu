@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：网关集成鉴权限流日志一体化
+简介：golang GC 调优 GOGC 参数调整，调整 GOGC 阈值，控制 GC 触发时机，权衡内存占用与 CPU 开销。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/62716806.shtml
+
+原标题：本地简易配置中心动态管理
+简介：WebSocket 聊天室实时通讯开发，基于 WebSocket 搭建简易聊天室，实现多人消息广播实时聊天效果。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/62905136.shtml
+
+原标题：Architecture：限流计数器架构时间窗口选型对比
+简介：golang minio 私有对象存储开发，minio s3 对象存储，bucket 管理，文件上传下载权限设置。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/73826825.shtml
+
+原标题：方案设计：高可用Redis集群架构选型对比
+简介：golang 结构体零值可用性原则，go 结构体尽量做到零值可用，不用初始化直接使用提升易用性。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/17681796.shtml
+
+原标题：CI/CD 流水线自动构建部署落地
+简介：golang go 调度器 GMP 模型通俗讲解，拆解 GMP 模型，理解 goroutine M P 调度原理，看懂调度状态。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/51514038.shtml
+
+原标题：项目实践：幂等表实现接口幂等业务实践
+简介：Docker 容器网络不通排查，排查容器网络模式、端口映射、防火墙，解决容器之间、容器外部网络不通。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/57785701.shtml
+
+原标题：DevOps：私有镜像仓库搭建与权限管控
+简介：golang 错误静默忽略风险规避，禁止空忽略错误，必须处理或者明确注释为什么忽略错误。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/28672505.shtml
+
+原标题：golang 系统设计读写穿透更新缓存几种方案
+简介：golang 信号捕获程序退出处理，Go 捕获操作系统信号，做资源回收，控制程序退出流程。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/73138280.shtml
+
+原标题：静态博客部署 GitHub Pages 教程
+简介：golang 优雅处理数据库事务，Go 数据库事务封装，正确处理事务提交回滚，保证业务数据一致性。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/49371684.shtml
+
+原标题：Docker 容器网络不通排查
+简介：golang sync.WaitGroup 协程等待控制，WaitGroup 控制一组协程等待全部执行完成，完成批量协程任务调度。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/41881716.shtml
+
+原标题：架构复盘：供应链安全架构依赖包风险治理
+简介：前端虚拟列表大数据渲染优化，实现虚拟滚动列表，只渲染可视区域 DOM，上万条数据页面流畅渲染。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/43391705.shtml
+
+原标题：golang 多协程任务池并发控制
+简介：API 大版本不兼容平滑迁移，API 版本迭代不兼容旧接口，设计平滑迁移方案，逐步完成版本切换。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/28269574.shtml
+
+原标题：golang redis pipeline 原子性说明
+简介：API 接口调试与异常处理实战，覆盖接口请求、参数组装、错误捕获，提供调试思路，高效定位接口返回异常问题。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/62638139.shtml
+
+原标题：Docker 容器网络不通排查
+简介：极简 API 网关路由转发实现，开发极简网关服务，完成请求路由转发，理解网关基础实现原理。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/97573624.shtml
+
+原标题：golang docker compose 本地开发最佳实践
+简介：批量数据处理脚本编写技巧，编写脚本批量处理大量业务数据，循环处理、分批执行，提升数据处理效率。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/61504149.shtml
+
+原标题：入门实践：使用模板快速生成项目脚手架
+简介：CORS 跨域问题多种解决方案，对比 CORS、代理等不同跨域方案优缺点，根据业务场景选择合适的跨域处理方式。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/41490380.shtml
+
+原标题：golang 限流熔断降级完整示例
+简介：golang httptest 模拟外部 http 服务，httptest.NewServer 模拟第三方 http 服务，单元测试 mock 外部接口。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/29379583.shtml
+
+原标题：从零学习基础的接口请求与参数处理
+简介：Spring 事务传播机制配置生效，理解事务传播行为，正确配置，修复事务不生效、事务失效的业务 bug。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/03947251.shtml
+
+原标题：GC 垃圾回收优化降低 CPU 占用
+简介：golang go 比较运算符可比较类型，哪些类型可以直接 == 比较，map slice 函数不可直接比较。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/81913913.shtml
+
+原标题：运维笔记：CI流水线缓存策略加速构建速度
+简介：golang redis hash 结构业务实战，使用 Redis Hash 存储对象数据，适合对象字段频繁更新业务场景。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/84140391.shtml
+
+原标题：Practice：实现请求body重复读取中间件实践
+简介：golang go 锁竞争导致 CPU 飙升，识别锁竞争场景，减少锁粒度，优化并发逻辑降低 CPU 开销。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/38351403.shtml
+
+原标题：部署实践：服务器SSH安全加固配置实践
+简介：golang url 参数编码处理方案，Go URL 参数编码解码，处理特殊字符，避免 URL 参数错乱。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/17179589.shtml
+
+原标题：Fork 开源项目同步上游代码
+简介：golang 自定义 pprof 扩展业务指标，扩展 pprof，输出业务自定义指标，结合性能数据分析业务状态。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/29491881.shtml
+
+原标题：Nginx 丢失请求头配置修正
+简介：golang gin 框架接口开发实战，Gin 框架搭建 HTTP 服务，开发增删改查接口，快速完成后端接口开发。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/41604038.shtml
+
+原标题：golang 系统设计日志架构采集存储检索完整链路
+简介：集成测试业务流程编写示例，编写业务流程集成测试，覆盖完整业务链路，验证模块之间协同工作是否正常。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/29372791.shtml
+
+原标题：Security：文件上传漏洞攻击面完整防护方案
+简介：网络读取超时设置连接挂起防护，设置网络读取超时时间，防止请求无限挂起不返回，占用连接资源。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/84149240.shtml
+
+原标题：架构复盘：RPC框架架构超时重试设计要点
+简介：golang goroutine 泄露检测告警实现，监控 goroutine 数量，突增触发告警，提早发现协程泄露。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/62684746.shtml
+
+原标题：实战：搭建本地对象存储兼容S3协议demo
+简介：golang 空接口 interface {} 类型处理，interface {} 存储任意类型，类型转换，处理泛型之前通用数据。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/73836573.shtml
+
+原标题：缓存穿透击穿雪崩全套防护
+简介：golang gin 静态资源访问配置，Gin 配置静态资源目录，直接对外提供静态文件访问服务。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/59572513.shtml
+
+原标题：后端登录鉴权模块完整开发
+简介：代码格式化工具团队统一风格，接入格式化工具，统一全团队代码书写风格，减少格式类 git 冲突。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/63407309.shtml
+
+原标题：依赖版本冲突兼容修复方案
+简介：golang 速率限制令牌桶实现，Go 实现令牌桶限流算法，可复用限流器，控制业务调用速率。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/97084112.shtml
+
+原标题：golang 系统设计接口返回格式统一规范
+简介：golang redis scan 遍历 key 避免阻塞，使用 scan 迭代遍历 redis 键，不用 keys 命令，防止阻塞 redis 服务。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/54965637.shtml
+
+原标题：golang 系统设计缓存预热脚本编写实操
+简介：golang 数据库慢查询监控实现，Go 封装 SQL 执行监控，记录慢 SQL，上报日志，发现数据库性能问题。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/84494592.shtml
+
+原标题：golang 系统设计 protobuf 可选字段使用技巧
+简介：golang gif 图片帧处理操作，解析 gif 图片帧，压缩、拆分 gif 动图，处理动图业务。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/73704914.shtml
+
+原标题：golang 系统设计 e2e 端到端测试简单落地思路
+简介：Git 标签版本标记发布管理，使用 Git 标签标记项目版本，打标签推送远程，用于版本发布、版本回溯。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/96059460.shtml
+
+原标题：全局本地依赖隔离冲突规避
+简介：golang 子进程执行命令标准流处理，exec.Command 执行外部命令，处理 stdout stderr，防止缓冲区阻塞卡死。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/63794796.shtml
+
+原标题：线程调度优化减少上下文切换
+简介：golang 日志 zap 结构化日志实践，接入 Zap 结构化日志库，打印结构化日志，方便日志检索解析。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/96826807.shtml
+
+原标题：golang 系统设计 rest 版本管理几种方案对比
+简介：容器资源限制防止宿主机过载，设置容器 CPU 内存资源上限，避免单个容器耗尽宿主机全部硬件资源。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/27037003.shtml
+
+原标题：git stash 代码暂存切换分支
+简介：golang hystrix 模式简易熔断实现，简易熔断组件，错误率达到阈值触发熔断，快速失败保护下游。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/17155806.shtml
+
+原标题：记一次分库分表路由计算错误数据写入错误分片
+简介：热更新开发环境配置教程，配置代码热重载，修改代码无需重启服务立即生效，大幅提升本地开发调试效率。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/66945726.shtml
+
+
+二、踩坑排错｜Troubleshooting
+原标题：golang 系统设计监控缺失指标补全完整流程
+简介：golang lru 缓存淘汰算法编写，手写 LRU 缓存淘汰算法，实现本地缓存，淘汰最久未使用数据。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/94612893.shtml
+
+原标题：golang 系统设计压测环境隔离避免影响生产
+简介：全局异常处理器接口返回统一，接入全局异常捕获，拦截业务全部异常，对外输出统一格式返回值。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/43572470.shtml
+
+原标题：内存广播本地进程消息通知
+简介：前端国际化多语言方案落地，搭建前端多语言国际化方案，切换语言，页面文本自动切换对应语种。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/47809164.shtml
+
+原标题：WebSocket 双向通信 demo 开发
+简介：golang go mod vendor 本地依赖导出，导出 vendor 目录，离线环境编译项目，无需访问外网拉依赖。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/15064658.shtml
+
+原标题：golang 系统设计配置敏感信息加密存储
+简介：golang redis bitmap 位图业务实战，bitmap 做签到统计、用户状态标记，节省大量内存空间。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/15455542.shtml
+
+原标题：性能笔记：服务CPU高负载定位分析完整步骤
+简介：golang go 并发模式 fan‑out fan‑in，fanout 分发任务 fanin 汇总结果，多协程并发处理任务。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/35455856.shtml
+
+原标题：golang aes 对称加密解密示例
+简介：golang mysql 长连接检测保活设置，配置 mysql 连接保活检测，剔除失效连接，避免拿到断开无效数据库连接。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/80907977.shtml
+
+原标题：golang 系统设计本地缓存过期淘汰策略选型
+简介：线程调度优化减少上下文切换，优化线程数量，减少线程频繁切换，降低 CPU 上下文切换开销。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/42946247.shtml
+
+原标题：开发记录：日志脱敏防止敏感信息输出实践
+简介：golang 模糊测试 go fuzz 基础编写，Fuzz 测试函数，自动生成随机输入，发现代码崩溃 panic。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/73611690.shtml
+
+原标题：零基础理解幂等性基础概念与场景
+简介：网关超时时间调优后端等待，调大网关向后端转发请求超时时间，给后端业务充足处理时间。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/84612460.shtml
+
+原标题：前端打包产物体积压缩优化
+简介：golang 终端交互式输入选择，命令行交互式问答选择输入，实现交互式脚本工具。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/18157569.shtml
+
+原标题：golang mysql 时间类型选型避坑
+简介：golang 表单文件大小限制配置，限制表单上传文件最大体积，拦截超大文件上传请求，保护服务。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/51785690.shtml
+
+原标题：设计思考：消息队列重复消费架构层防御手段
+简介：golang 模糊测试 go fuzz 基础编写，Fuzz 测试函数，自动生成随机输入，发现代码崩溃 panic。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/96024024.shtml
+
+原标题：golang 系统设计限流服务架构讲解
+简介：不必要字符转义关闭业务异常，关闭多余自动转义逻辑，防止业务数据被错误转义，破坏原始数据。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/73614523.shtml
+
+原标题：线上异常：时间时区问题，定时任务执行偏移
+简介：Git commit 钩子提交规范校验，配置 Git 提交钩子，提交代码自动校验提交信息格式，规范提交记录。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/95835794.shtml
+
+原标题：零基础理解读写分离基础思想
+简介：前端权限路由动态生成实现，根据后端返回权限，动态生成前端路由菜单，实现页面权限控制。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/59162378.shtml
+
+原标题：时间同步修复令牌提前过期
+简介：golang go url url.Values 参数编码，url.Values 构建 url 查询参数，自动处理参数 url 编码。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/84824502.shtml
+
+原标题：golang 系统设计压力测试性能测试执行流程
+简介：golang proto 默认值坑点梳理，梳理 Protobuf 默认值坑，零值字段区分未赋值，避免业务逻辑错误。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/83793802.shtml
+
+原标题：踩坑：分布式事务状态不一致数据两边不一致
+简介：golang icmp ping 程序实现，go 实现 ping 工具发送 icmp 报文，检测网络连通性。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/83834835.shtml
+
+原标题：golang 系统设计网关灰度流量切分简单方案
+简介：任务执行锁防止并发重复调度，增加任务执行锁，多实例环境，防止同一个定时任务并发多次运行。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/62604512.shtml
+
+原标题：DevOps：多环境镜像标签版本管理规范
+简介：文件句柄上限调整上传随机失败，调高系统文件句柄上限，解决高并发上传场景随机打开文件失败。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/30047348.shtml
+
+原标题：golang 系统设计开源项目依赖版本升级维护
+简介：golang 命令行参数解析开发，解析命令行入参，开发自定义 CLI 程序，读取启动参数配置服务。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/28168040.shtml
+
+原标题：零基础理解读写分离基础思想
+简介：Git 分支切换合并删除完整操作，实操分支全生命周期操作，包含切换、合并、删除，熟悉日常开发分支处理流程。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/86946145.shtml
+
+原标题：golang 系统设计缓存预热脚本编写实操
+简介：golang 环境变量读取与类型转换，读取系统环境变量，做类型转换默认值处理，适配多环境部署。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/96945925.shtml
+
+原标题：golang redis 地理位置 geo 使用
+简介：golang 正则表达式 Go 实操案例，正则匹配提取替换，处理手机号邮箱校验，规避正则回溯 CPU 暴涨。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/63591402.shtml
+
+原标题：效率笔记：GitWorkflow团队协作规范模板
+简介：golang time duration 解析时间字符串，time.ParseDuration 解析 1h30m 时间间隔字符串。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/53894691.shtml
+
+原标题：Troubleshooting：依赖安装失败完整排查清单
+简介：JWT 工具封装令牌刷新过期，封装 JWT 工具类，实现令牌生成、校验、过期刷新整套令牌管理逻辑。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/29239139.shtml
+
+原标题：golang 系统设计 api 网关核心能力完整梳理
+简介：golang crypto 密码学最佳实践，go crypto 包加密签名，规避不安全算法，使用安全密码套件。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/40481512.shtml
+
+原标题：golang http 请求重试封装工具
+简介：多规则数据脱敏组件开发，封装通用脱敏组件，支持多种脱敏规则，项目多处复用脱敏逻辑。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/43682512.shtml
+
+原标题：Hands‑on：简易压缩中间件gzip实现实践
+简介：golang go 测试 t.Run 子测试分组，t.Run 实现子测试，分组执行用例，输出分组测试结果。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/96346246.shtml
+
+原标题：开发复盘：大JSON解析分批处理避免内存溢出
+简介：golang contract 契约测试微服务，微服务契约测试，保证接口变更不破坏调用方，提前发现兼容性问题。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/52460362.shtml
+
+原标题：Git 误删提交代码恢复找回
+简介：开源项目本地运行排错完整清单，汇总开源项目拉取后运行失败各类问题，给出排查思路，快速解决本地启动异常。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/49411218.shtml
+
+原标题：开发复盘：异步消息解耦业务流程落地实践
+简介：golang 系统资源限制读取 cpu 内存，读取系统容器 cpu 内存限制，程序适配容器资源配额做业务调优。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/21179986.shtml
+
+原标题：部署实践：服务器SSH安全加固配置实践
+简介：golang sql 注入风险规避要点，参数化查询杜绝 sql 注入，禁止字符串拼接 SQL 语句执行。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/54733133.shtml
+
+原标题：golang 系统设计缓存预热缓存降级实现
+简介：golang go‑zero 分布式锁组件使用，go‑zero 内置 redis 分布式锁，业务直接调用实现并发控制。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/65654552.shtml
+
+原标题：golang mysql 批量导入数据实操
+简介：golang mysql 事务回滚异常处理，Go MySQL 事务异常捕获，正确回滚事务，保证异常场景数据回滚。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/20287454.shtml
+
+原标题：golang 错误处理最佳实践汇总
+简介：CI 构建缓存加速编译速度，开启 CI 流水线依赖缓存，复用上一次构建依赖包，缩短流水线构建耗时。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/44756355.shtml
+
+原标题：短信服务封装失败自动重试
+简介：golang tcp keepalive 参数程序配置，go 程序设置 tcp keepalive，操作系统 tcp 保活参数，清理僵死连接。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/81129089.shtml
+
+原标题：新手指南：本地多版本环境共存配置
+简介：golang 响应 body 流式返回大数据，http 流式输出数据，边生成边返回，无需在内存组装完整返回结果。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/36565748.shtml
+
+原标题：golang 系统设计定时任务分布式锁防重复执行
+简介：CI 构建缓存加速编译速度，开启 CI 流水线依赖缓存，复用上一次构建依赖包，缩短流水线构建耗时。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/78080768.shtml
+
+三、实战开发｜Practice
+原标题：复盘总结：分布式系统常见坑点汇总清单
+简介：请求重试组件退避策略实现，封装重试组件，实现指数退避策略，避免大量请求同时重试压垮下游。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/24612023.shtml
+
+原标题：golang 布隆过滤器实现去重
+简介：golang go‑zero 监控指标埋点，go‑zero 内置 metrics 监控，上报业务指标对接监控平台。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/81264703.shtml
+
+原标题：golang 系统设计分布式事务几种方案
+简介：golang redis pipeline 批量操作，使用 Redis Pipeline 批量执行多条命令，减少网络往返，提升批量操作性能。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/25357614.shtml
+
+原标题：手写简易 MQ 理解消息存储消费
+简介：日志敏感信息脱敏泄露防护，日志打印时自动脱敏手机号身份证，避免日志输出泄露用户隐私数据。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/06158458.shtml
+
+原标题：golang 系统设计接口防刷 ip 限流实现
+简介：WebSocket 双向通信 demo 开发，搭建简易 WebSocket 服务，实现客户端服务端双向消息推送，理解实时通信原理。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/85946247.shtml
+
+原标题：golang 系统设计网络超时故障排查思路
+简介：golang json omitempty 零值坑，omitempty 会忽略零值，区分业务是否需要输出零值字段。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/73604513.shtml
+
+原标题：新手指南：看懂开源项目的Issue与PR
+简介：消息队列消费堆积扩容处理，消息大量堆积时，扩容消费实例，优化消费逻辑，加快消息处理速度。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/74785735.shtml
+
+原标题：优化实践：多级缓存减少下游服务调用压力
+简介：死信队列处理消息阻塞业务，配置死信队列，处理消费失败消息，避免失败消息阻塞整个队列业务。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/52560350.shtml
+
+原标题：架构笔记：数据库连接池架构参数调优思路
+简介：网关集成鉴权限流日志一体化，在网关层整合鉴权、限流、请求日志，统一对入口请求做管控处理。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/19580280.shtml
+
+原标题：项目构建脚本编译打包解析
+简介：线上接口超时故障排查思路，从网络、数据库、代码逻辑逐层排查接口超时，定位慢请求根因。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/29341489.shtml
+
+原标题：golang 系统设计内部服务熔断降级配置思路
+简介：前端图片懒加载性能优化，实现图片懒加载，页面可视区域才加载图片，减少页面初始网络请求。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/63784704.shtml
+
+原标题：实战：容器内执行调试排错完整实操流程
+简介：golang io.Copy 流式拷贝数据，io.Copy 拷贝 reader 到 writer，不用加载全部数据到内存。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/51578680.shtml
+
+原标题：实践：OpenAPI自动生成接口文档完整实践
+简介：golang go test 单元测试命令参数详解，gotest 参数覆盖率，指定测试用例，跳过测试，单元测试命令实操。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/50551403.shtml
+
+原标题：正则表达式优化 CPU 占满问题
+简介：golang 错误处理最佳实践汇总，Go 错误处理规范，包装错误，堆栈携带，拒绝简单忽略错误。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/28357357.shtml
+
+原标题：golang 系统设计 cpu 高占用排查步骤
+简介：golang 优雅处理 http 重定向逻辑，自定义控制 http 重定向跳转次数，防止无限重定向死循环。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/85818928.shtml
+
+原标题：golang kafka 批量发送消费优化
+简介：golang 配置文件多环境加载，Go 多环境配置加载实现，读取配置文件环境变量，适配多套运行环境。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/84802805.shtml
+
+原标题：排错：CI流水线构建失败，日志无明确报错
+简介：golang go 项目依赖冲突解决完整思路，定位冲突包，replace、exclude、升级降级解决版本冲突。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/63680706.shtml
+
+原标题：多规则数据脱敏组件开发
+简介：golang 时间轮算法实现延时调度，手写简易时间轮，高并发大量延时任务，降低轮询 CPU 消耗。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/30414624.shtml
+
+原标题：Issue：浏览器缓存ServiceWorker导致旧页面常驻
+简介：golang mongodb 索引优化慢查询处理，mongodb 创建索引，分析慢查询，优化聚合查询执行性能。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/74895791.shtml
+
+原标题：Practice：数据库分表简单实现方案与代码示例
+简介：golang go proxy 私有代理配置，配置 go proxy 私有代理，加速依赖下载，内网环境构建项目。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/05935836.shtml
+
+原标题：快速入门GraphQL基础查询语法示例
+简介：K8s 镜像拉取网络故障修复，排查 K8s 集群镜像拉取网络问题，配置镜像源，恢复镜像正常拉取。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/28570579.shtml
+
+原标题：开发代理服务网络限制解决
+简介：golang 僵尸进程处理 go 程序，正确等待子进程退出，避免产生僵尸进程，占用系统进程表。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/28160363.shtml
+
+原标题：限流规则误拦截正常请求修复
+简介：golang 时间轮算法实现延时调度，手写简易时间轮，高并发大量延时任务，降低轮询 CPU 消耗。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/67185635.shtml
+
+原标题：正则表达式优化 CPU 占满问题
+简介：golang gorm ORM 数据库操作，GORM 实操数据库 CRUD，模型定义，关联查询，简化 Go 数据库开发。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/49311812.shtml
+
+原标题：webpack chunk 分包策略详解
+简介：golang 延迟队列实现方案对比，时间轮、redis zset 实现延迟队列，处理延时执行业务。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/42656857.shtml
+
+原标题：性能笔记：锁优化减少竞争提升并发吞吐
+简介：golang httptest 模拟外部 http 服务，httptest.NewServer 模拟第三方 http 服务，单元测试 mock 外部接口。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/73613548.shtml
+
+原标题：安全实践：生产环境禁止开启debug调试模式
+简介：全局异常处理器接口返回统一，接入全局异常捕获，拦截业务全部异常，对外输出统一格式返回值。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/52594015.shtml
+
+原标题：Troubleshoot：RPC序列化对象字段增减兼容踩坑
+简介：golang cgo 内存管理 C 与 Go 内存，区分 Go 内存 C 堆内存，防止 cgo 内存泄漏，正确释放 C 内存。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/30383414.shtml
+
+原标题：golang 重试退避机制代码实现
+简介：golang hystrix 模式简易熔断实现，简易熔断组件，错误率达到阈值触发熔断，快速失败保护下游。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/51902826.shtml
+
+原标题：全局本地依赖隔离冲突规避
+简介：接口限流逻辑简单模拟实现，编写简易限流逻辑，限制接口访问频次，保护服务，避免短时间大量请求压垮系统。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/81804808.shtml
+
+原标题：内网 DNS 不稳定随机报错排查
+简介：golang go http 文件服务器自定义，http.FileServer 自定义 FileSystem，拦截访问，增加鉴权逻辑。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/74825615.shtml
+
+原标题：依赖版本冲突兼容修复方案
+简介：golang benchmark 减少测试干扰，benchmark 执行循环 b.N，避免循环内部做非被测逻辑干扰结果。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/95246258.shtml
+
+原标题：Practice：批量异步任务处理系统设计实现
+简介：前端下载导出文件功能实现，前端实现文件流下载导出，处理异常，适配浏览器不同下载行为。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/61592503.shtml
+
+原标题：HTTP 状态码请求头完整梳理
+简介：单元测试用例编写入门实操，讲解测试用例设计思路，演示基础单元测试代码，提升代码健壮性，提前发现逻辑 bug。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/40451068.shtml
+
+原标题：golang es 分页深分页性能优化
+简介：CI 流水线超时时间延长配置，调大 CI 任务超时阈值，解决构建任务耗时较长被流水线强制终止。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/30391382.shtml
+
+原标题：golang go test 覆盖率统计实操
+简介：golang httptest 模拟外部 http 服务，httptest.NewServer 模拟第三方 http 服务，单元测试 mock 外部接口。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/29467364.shtml
+
+原标题：golang 系统设计灰度发布实现思路
+简介：golang context 超时取消实战案例，使用 context 控制协程、http 请求超时，自动终止超时任务，避免协程无限阻塞。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/40673527.shtml
+
+原标题：golang redis bitmap 位图统计实现
+简介：golang http client 全局变量复用，http Client 不要每次请求新建，复用 Transport 提升性能。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/52613614.shtml
+
+原标题：性能复盘：内存泄漏定位，内存持续上涨优化
+简介：golang go 运行时获取编译信息，程序内部读取编译时间 git 版本，接口输出程序版本信息。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/79689585.shtml
+
+原标题：Hands‑on：简易请求转发代理中间件实现
+简介：golang 路径处理 filepath 包规范写法，使用 filepath 处理路径拼接分割，自动适配操作系统路径分隔符。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/39380415.shtml
+
+四、架构设计｜Architecture
+原标题：安全复盘：定时任务权限过大风险管控
+简介：golang os/exec 安全执行外部命令，规避命令注入漏洞，参数分离，禁止拼接命令字符串执行。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/57558572.shtml
+
+原标题：入门实践：实现简单文件读写功能
+简介：golang grpc keepalive 保活配置，grpc keepalive 参数调优，检测断开僵死连接，释放无效连接资源。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/42683615.shtml
+
+原标题：Shell 运维脚本服务器效率提升
+简介：日志输出规范防止磁盘爆满，控制日志输出量，配置日志切割轮转，避免日志文件无限增长占满磁盘。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/52604514.shtml
+
+原标题：踩坑：大事务引发数据库连接池耗尽
+简介：ORM 框架数据库增删改查实操，使用 ORM 框架完成数据库基础操作，减少手写 SQL，简化业务层数据库交互代码。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/28161303.shtml
+
+原标题：WSL 内存上限限制防止资源耗尽
+简介：服务器时钟同步任务错乱修复，配置服务器 NTP 时间同步，保证集群所有机器时间保持一致。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/06028179.shtml
+
+原标题：从零搭建简单的健康检查接口示例
+简介：Dockerfile 编写容器打包实战，讲解 Dockerfile 指令含义，编写镜像构建脚本，将本地项目打包成可分发容器镜像。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/46149178.shtml
+
+原标题：golang 系统设计开源项目自动化 ci 配置示例
+简介：rebase 操作防止代码丢失，讲解 rebase 风险点，操作前做好备份，规避错误操作造成代码提交丢失。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/01420084.shtml
+
+原标题：后端登录鉴权模块完整开发
+简介：nodejs 事件循环机制完整讲解，拆解 Node.js 事件循环各个阶段，理解异步回调执行顺序。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/32489656.shtml
+
+原标题：golang rsa 非对称加密签名验签
+简介：不必要字符转义关闭业务异常，关闭多余自动转义逻辑，防止业务数据被错误转义，破坏原始数据。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/32640301.shtml
+
+原标题：部署复盘：容器资源限制CPU内存配置实践
+简介：golang 容器 OOM 被杀死排查区分，区分业务内存泄漏、容器限制过小，定位容器 OOMKilled 原因。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/95803904.shtml
+
+原标题：golang 系统设计 ci 流水线安全管控思路
+简介：Dockerfile 编写容器打包实战，讲解 Dockerfile 指令含义，编写镜像构建脚本，将本地项目打包成可分发容器镜像。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/30380382.shtml
+
+原标题：排错：静态资源404，打包路径配置错误
+简介：golang go 爬虫 html 解析 goquery，goquery 解析 html 文档，css 选择器提取网页内容，实现网页数据抓取。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/39493473.shtml
+
+原标题：Troubleshoot：跨域偶现失败难以复现问题
+简介：golang go http 静态文件禁止目录遍历，http.FileServer 防止../ 路径穿越，了解底层安全实现。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/36046738.shtml
+
+原标题：golang 系统设计接口幂等架构设计
+简介：golang redis 事务 multi exec 使用，Redis 事务 multi exec 实现批量命令原子执行，理解 redis 事务隔离特性。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/51622613.shtml
+
+原标题：线上异常：线程池队列拒绝策略配置错误丢任务
+简介：golang tar gz 压缩解压处理，tar.gz 归档压缩解压，服务端日志备份、文件打包场景使用。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/17027947.shtml
+
+原标题：golang 系统设计线上故障排查完整流程
+简介：缓存穿透防护保护数据库，实现缓存穿透防护手段，拦截不存在的数据查询，避免请求直接打穿数据库。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/06127247.shtml
+
+原标题：golang 系统设计结构化日志字段规范约定
+简介：golang 命令行参数解析开发，解析命令行入参，开发自定义 CLI 程序，读取启动参数配置服务。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/06005806.shtml
+
+原标题：多版本开发环境共存配置
+简介：golang oss 签名 URL 临时访问，生成 oss 临时签名 url，限时访问私有文件，保障文件访问安全可控。
+ | 原文链接：http://www.blog.goiouz.cn/racaq/30462413.shtml
+
+?
